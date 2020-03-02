@@ -1,0 +1,2 @@
+DEBUG = True
+DEV = 'development'
